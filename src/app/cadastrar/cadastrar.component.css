@@ -1,0 +1,22 @@
+#img-bg{
+    background-image: url('https://o.remove.bg/downloads/89c46e61-46e3-4f42-842c-b6efb1bc6477/image-removebg-preview.png');
+
+    min-height: 695px;
+  
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg{
+    background-color: #ffdbe0;
+}
+
+.caixa{
+    color: rgb(2, 2, 2);
+     background-color: rgb(248, 248, 248);
+ }
+
+ .borda{
+    border-radius:40px;
+}
