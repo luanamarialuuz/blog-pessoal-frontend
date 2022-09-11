@@ -1,6 +1,7 @@
 ul.social-network{
     list-style: none;
     padding: 0;
+    
 }
 
 ul.social-network li{
@@ -11,7 +12,7 @@ ul.social-network li{
 
 .fa{
     font-size: 35pt;
-    color: white;
+    color: rgb(0, 0, 0);
     padding: 10px;
 }
 
@@ -20,5 +21,9 @@ ul.social-network li{
 }
 
 .fa-github:hover{
-   color: dimgray;
+   color: rgb(158, 132, 132);
+   
+}
+.bg{
+    background-color: #ffdbe0;
 }
